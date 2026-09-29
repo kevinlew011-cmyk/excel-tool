@@ -97,6 +97,7 @@ E80=（EUR）
 D82=SOME
 D84=旧版
 [Reporting_Sheet]
+13131313131	展会件
 
 [User_Name]
 B91=41741830
